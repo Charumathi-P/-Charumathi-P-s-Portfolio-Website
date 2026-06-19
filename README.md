@@ -18,7 +18,7 @@
 * 🌱 Currently learning **Full Stack Web Development**
 * 💻 Interested in **Web Development, UI/UX, and Software Development**
 * 🔭 Working on **Personal Projects & Portfolio Development**
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at: **[charuprabahar2002@gmail.com](charuprabahar2002@gmail.com)**
 * ⚡ Fun Fact: **I love learning new technologies and building projects**
 
 ---
@@ -32,7 +32,7 @@
 <a href="www.linkedin.com/in/charumathi-p-11504225b" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="charuprabahar2002@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
