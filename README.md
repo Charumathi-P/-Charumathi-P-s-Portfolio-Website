@@ -1,26 +1,41 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Charumathi P
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Web+Developer;Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer;Full+Stack+Developer;Open+Source+Learner;Passionate+About+Technology" alt="Typing SVG" />
 </p>
 
-<h3 align="center">💻 Aspiring Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">💻 Computer Science Student | 🌐 Web Developer | 🚀 Future Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Charumathi-P&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Charumathi-P?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Charumathi-P?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Web Development & Full Stack Development
-- 🌱 Currently learning MERN Stack
-- 🚀 Building innovative web applications
-- 📚 Interested in Open Source Contributions
-- ⚡ Love creating responsive and user-friendly websites
+🎓 Computer Science Student passionate about Web Development and Software Engineering.
+
+🔭 Currently working on:
+- Portfolio Website Development
+- Full Stack Web Development Projects
+- Open Source Learning
+
+🌱 Currently Learning:
+- React.js
+- Node.js
+- MongoDB
+- Full Stack Development
+
+💡 Interests:
+- Web Development
+- UI/UX Design
+- Software Engineering
+- Open Source Contributions
+
+⚡ Fun Fact:
+> Every expert was once a beginner.
 
 ---
 
@@ -28,71 +43,61 @@
 
 <p align="center">
 <a href="mailto:charuprabahar2002@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/charumathi-p-11504225b">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Charumathi-P">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 </p>
 
 ---
 
-## 📧 Contact
+## 💻 Tech Stack
 
-📩 Email: **charuprabahar2002@gmail.com**
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
+</p>
 
-🔗 LinkedIn: **www.linkedin.com/in/charumathi-p-11504225b**
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
-🐙 GitHub: **github.com/Charumathi-P**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,c,mysql,git,github,vscode,bootstrap" />
+### Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## 💼 Internship Experience
 
-### 🏢 InternPe
-**Web Development Intern**
+### InternPe
+**Web Development Intern** | Apr 2025 – May 2025
+
 - Front-End Development Training
 - Project-Based Learning
-
-### 🏢 SkillCraft Technology
-**Web Development Intern**
 - Responsive Web Design
-- HTML, CSS, JavaScript Projects
 
-### 🏢 CodTech IT Solutions Pvt. Ltd.
-**Full Stack Web Development Intern**
+### SkillCraft Technology
+**Web Development Intern** | May 2025 – Jun 2025
+
+- Front-End Development
+- HTML, CSS, JavaScript
+- Responsive Web Applications
+
+### CodTech IT Solutions Pvt. Ltd.
+**Full Stack Web Development Intern** | Jun 2025 – Jul 2025
+
 - Full Stack Development
-- Interactive Web Applications
-
----
-
-## 🚀 Projects
-
-### 🛒 E-Commerce Website
-- Responsive shopping website
-- HTML, CSS & JavaScript
-
-### 🌐 Portfolio Website
-- Personal portfolio website
-- Modern responsive design
-
-### 📚 Academic Projects
-- Data Structures
-- DBMS
-- Operating Systems
+- Web Application Projects
+- Industry-Level Exposure
 
 ---
 
@@ -117,7 +122,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Charumathi-P&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Charumathi-P&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -125,7 +130,31 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charumathi-P&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charumathi-P&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Website
+Responsive e-commerce website built using HTML, CSS, and JavaScript.
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing skills, internships, and projects.
+
+### 💻 Academic Projects
+- Data Structures
+- DBMS
+- Operating Systems
+- Web Development
+
+---
+
+## 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
 ---
@@ -133,33 +162,31 @@
 ## 🎯 2026 Goals
 
 - ✅ Become a Full Stack Developer
-- ✅ Build More Real-World Projects
 - ✅ Contribute to Open Source
-- ✅ Strengthen Problem Solving Skills
+- ✅ Build Real-World Projects
 - ✅ Secure a Software Development Role
+- ✅ Learn Modern Frameworks
+
+---
+
+## 📫 Contact
+
+📧 Email: **charuprabahar2002@gmail.com**
+
+🔗 LinkedIn: **www.linkedin.com/in/charumathi-p-11504225b**
+
+🐙 GitHub: **github.com/Charumathi-P**
 
 ---
 
 ## 💡 Quote
 
-> "Success is not final, failure is not fatal: it is the courage to continue that counts."
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
-</p>
-
-<h3 align="center">⭐ Thanks for Visiting My Profile! ⭐</h3>
-
-<p align="center">
-Made with ❤️ by <b>Charumathi P</b>
-</p>
-
-> "The best way to predict the future is to create it."
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
 </p>
