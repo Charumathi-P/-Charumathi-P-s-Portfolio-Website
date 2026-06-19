@@ -29,7 +29,7 @@
 <a href="https://github.com/Charumathi-P" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
+<a href="www.linkedin.com/in/charumathi-p-11504225b" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="mailto:your-email@example.com">
